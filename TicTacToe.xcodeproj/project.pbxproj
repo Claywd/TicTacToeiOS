@@ -55,7 +55,7 @@
 		011751F21E3AF96900EE7080 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		011751FE1E3AFEFD00EE7080 /* Algorithms.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Algorithms.cpp; sourceTree = "<group>"; };
 		011751FF1E3AFEFD00EE7080 /* Algorithms.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Algorithms.hpp; sourceTree = "<group>"; };
-		014FB06D1E3C036D00A9B0DB /* grid.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = grid.jpeg; path = ../../../Downloads/grid.jpeg; sourceTree = "<group>"; };
+		014FB06D1E3C036D00A9B0DB /* grid.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = grid.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
